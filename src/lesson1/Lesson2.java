@@ -40,7 +40,7 @@ if ((number5 == number6) && (name1.equals(name2))) {
         if (!(number5 == number6) && (name1.equals(name2))) {
           //  System.out.println("какой-то код");
         }
-// Цикл for
+// Цикл for foreach
         int[] numbers = new int[3];
         numbers[0] = 2;
         numbers[1] = 3;
